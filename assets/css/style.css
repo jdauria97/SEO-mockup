@@ -102,7 +102,7 @@ main {
     max-width: 150px;
 }
 
-.hero-sub {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ main {
     color: #ffffff;
 }
 
-.hero-sub img {
+article img {
     max-height: 200px;
 }
 
-.hero-sub h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
